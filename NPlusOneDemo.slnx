@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/NPlusOneDemo/NPlusOneDemo.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NPlusOneDemo.Tests/NPlusOneDemo.Tests.csproj" />
+  </Folder>
+</Solution>
